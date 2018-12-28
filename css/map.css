@@ -1,11 +1,27 @@
+body
+{
+    perspective: 250px;
+    transform-style: preserve-3d;
+}
+
 .Bottom
 {
     background: Gray;
 }
 
+.Left
+{
+    transform: rotateY(90deg);
+}
+
 .Left, .Right
 {
     background: DarkGray;
+}
+
+.Right
+{
+    transform: rotateY(-90deg);
 }
 
 .Top
