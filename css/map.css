@@ -1,0 +1,14 @@
+.Bottom
+{
+    background: Gray;
+}
+
+.Left, .Right
+{
+    background: DarkGray;
+}
+
+.Top
+{
+    background: LightGray;
+}
