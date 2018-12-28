@@ -4,6 +4,11 @@ body
     transform-style: preserve-3d;
 }
 
+.Wall
+{
+    transform-origin: 0% 0% 0%;
+}
+
 .Bottom
 {
     background: Gray;
