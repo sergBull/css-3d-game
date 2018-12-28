@@ -4,7 +4,7 @@ body
     transform-style: preserve-3d;
 }
 
-.Wall
+.Wall *
 {
     height: 100px;
     transform-origin: 0% 0% 0%;
