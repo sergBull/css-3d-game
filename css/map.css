@@ -12,6 +12,7 @@ body
 .Bottom
 {
     background: Gray;
+    transform: rotateX(90deg);
 }
 
 .Left
@@ -32,4 +33,5 @@ body
 .Top
 {
     background: LightGray;
+    transform: rotateX(-90deg);
 }
