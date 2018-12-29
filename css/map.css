@@ -4,7 +4,7 @@ body
     display: flex;
     justify-content: center;
     perspective: 250px;
-    perspective-origin: center -5em;
+    perspective-origin: center -50px;
     transform-style: preserve-3d;
 }
 
