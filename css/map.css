@@ -8,7 +8,7 @@ body
     transform-style: preserve-3d;
 }
 
-.Wall
+div.Wall
 {
     height: 100px;
     position: absolute;
