@@ -1,6 +1,7 @@
 body
 {
     perspective: 250px;
+    perspective-origin: center -5em;
     transform-style: preserve-3d;
 }
 
