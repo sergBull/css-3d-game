@@ -29,7 +29,7 @@ body
 
 .Right
 {
-    transform: rotateY(-90deg);
+    transform: rotateY(180deg);
 }
 
 .Top
