@@ -3,7 +3,6 @@ body
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: auto;
     overflow: hidden;
     padding: auto;
     perspective: 250px;
@@ -14,6 +13,8 @@ body
 div
 {
     height: 100px;
+    margin: 0;
+    padding: 0;
     position: absolute;
     transform-origin: 0% 0% 0%;
     width: 100px;
