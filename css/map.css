@@ -11,6 +11,7 @@ body
 .Wall *
 {
     height: 100px;
+    position: absolute;
     transform-origin: 0% 0% 0%;
     width: 100px;
 }
