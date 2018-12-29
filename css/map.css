@@ -3,6 +3,9 @@ body
     align-items: center;
     display: flex;
     justify-content: center;
+    margin: auto;
+    overflow: hidden;
+    padding: auto;
     perspective: 250px;
     perspective-origin: center center;
     transform-style: preserve-3d;
